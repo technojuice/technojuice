@@ -9,17 +9,10 @@
 
 ### Connect with me:
 
-[![website](./img/youtube-light.svg)](https://space.bilibili.com/1676648452?spm_id_from=333.337.0.0)
-
+[![website](./img/bilibili.svg)](https://space.bilibili.com/1676648452?spm_id_from=333.337.0.0)
 &nbsp;&nbsp;
-[![website](./img/twitter-light.svg)](https://twitter.com/codestackr#gh-light-mode-only)
-[![website](./img/twitter-dark.svg)](https://twitter.com/codestackr#gh-dark-mode-only)
+[![website](./img/steam.svg)](https://steamcommunity.com/profiles/76561199379848342/)
 &nbsp;&nbsp;
-[![website](./img/linkedin-light.svg)](https://linkedin.com/in/codeSTACKr#gh-light-mode-only)
-[![website](./img/linkedin-dark.svg)](https://linkedin.com/in/codeSTACKr#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./img/instagram-light.svg)](https://instagram.com/codeSTACKr#gh-light-mode-only)
-[![website](./img/instagram-dark.svg)](https://instagram.com/codeSTACKr#gh-dark-mode-only)
 
 ### Languages and Tools:
 
