@@ -8,11 +8,13 @@
 - ⚡ Fun fact: I love to draw and play guitar
 
 ### Connect with me:
-
-[![website](./img/bilibili.svg)](https://space.bilibili.com/1676648452?spm_id_from=333.337.0.0)
+<a href="https://space.bilibili.com/1676648452?spm_id_from=333.337.0.0">
+  <img src="./img/bilibili.svg" width="30" height="30" alt="bilibili">
+</a>
 &nbsp;&nbsp;
-[![website](./img/steam.svg)](https://steamcommunity.com/profiles/76561199379848342/)
-&nbsp;&nbsp;
+<a href="https://steamcommunity.com/profiles/76561199379848342/">
+  <img src="./img/steam.svg" width="30" height="30" alt="steam">
+</a>
 
 ### Languages and Tools:
 
